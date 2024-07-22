@@ -1,5 +1,4 @@
 # django-cart App
-# Django Cart App
 
 ## Overview
 This Django application provides a simple shopping cart functionality where users can view products, add them to their cart, and remove items from the cart. It utilizes Django's ORM for data modeling and provides basic views for managing the cart.
