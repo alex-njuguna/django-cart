@@ -11,24 +11,24 @@ This Django application provides a simple shopping cart functionality where user
 
 ## Installation
 1. Clone the repository:
-    - git clone https://github.com/alex-njuguna/django-cart.git
+    - `git clone https://github.com/alex-njuguna/django-cart.git`
 
 2. Create a virtual environment and activate it:
-    - python -m venv env
-    - source env/bin/activate # On Windows use env\Scripts\activate
+    - `python -m venv env`
+    - `source env/bin/activate # On Windows use env\Scripts\activate`
 
 3. Install dependencies:
-    - pip install -r requirements.txt
+    - `pip install -r requirements.txt`
 
 4. Apply migrations to set up the database:
-    - python manage.py makemigratons
-    - python manage.py migrate
+    - `python manage.py makemigratons`
+    - `python manage.py migrate`
 
 5. Create a superuser to access the Django admin interface:
-    - python manage.py createsuperuser
+    - `python manage.py createsuperuser`
 
 6. Start the development server:
-    - python manage.py runserver
+    - `python manage.py runserver`
 
 
 ## Usage
